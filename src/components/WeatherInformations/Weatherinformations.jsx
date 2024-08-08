@@ -1,7 +1,7 @@
 import './Weatherinformations.css'
 
 function WeatherInformations({ weather }) {
-    console.log(weather)
+
 
     return (
         <div className='weather-container'>
