@@ -10,33 +10,3 @@
 h3 {
     padding-bottom: 5px;
 }
-
-.weather-list {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    flex-wrap: wrap;
-    gap: 10px;
-}
-
-.weather-item {
-    text-align: center;
-    width: 140px;
-    height: 254px;
-    background: #07182E;
-    border-radius: 20px;
-    padding: 10px;
-    position: relative;
-}
-
-.forecast-day,
-.forecast-description {
-    text-transform: capitalize;
-    font-size: 1.1rem;
-    color: white;
-}
-
-.weather-item img,
-.weather-item p {
-    color: white;
-}
