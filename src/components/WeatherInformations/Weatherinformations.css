@@ -1,4 +1,18 @@
+<<<<<<< HEAD
 .weather-list {
+=======
+.weather-container {
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px 0;
+}
+
+h2 {
+    font-size: 2rem;
+}
+
+.weather-info {
+>>>>>>> 49b0ac8 (Melhorando visualmente)
     display: flex;
     justify-content: space-between;
     align-items: center;
